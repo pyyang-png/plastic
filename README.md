@@ -1,2 +1,2 @@
 # plastic
-index.htm
+index.html
